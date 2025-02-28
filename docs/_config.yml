@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: Shape Up 繁體中文翻譯 (振作起來：停止原地踏步，交付重要工作)
+description: Basecamp 的產品開發方法論 Shape Up 的繁體中文翻譯
+show_downloads: false
+google_analytics:
+github:
+  is_project_page: true
+  repository_url: https://github.com/shanchiehchiu/shape-up-chinese 
