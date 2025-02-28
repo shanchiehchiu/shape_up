@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 第一章：塑造的原則 | Shape Up 繁體中文翻譯
+title: 第二章：塑造的原則 | Shape Up 繁體中文翻譯
 ---
 
-# 第一章：塑造的原則
+# 第二章：塑造的原則
 
 ## 塑造的定義
 
@@ -41,4 +41,4 @@ title: 第一章：塑造的原則 | Shape Up 繁體中文翻譯
 
 在接下來的章節中，我們將深入探討塑造過程的具體步驟。
 
-[上一章：第一部分：塑造](./01-part1.html) | [下一章：確定邊界](./01-2-setting-boundaries.html) 
+[上一章：介紹](./01-01-introduction.html) | [下一章：確定邊界](./01-03-setting-boundaries.html) 

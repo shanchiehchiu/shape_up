@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 第二章：確定邊界 | Shape Up 繁體中文翻譯
+title: 第三章：確定邊界 | Shape Up 繁體中文翻譯
 ---
 
-# 第二章：確定邊界
+# 第三章：確定邊界
 
 在開始塑造工作之前，我們需要設定一些邊界。這些邊界幫助我們確定工作的範圍，並防止我們陷入無盡的細節中。
 
@@ -46,4 +46,4 @@ title: 第二章：確定邊界 | Shape Up 繁體中文翻譯
 
 在下一章中，我們將討論如何找到解決方案的核心元素。
 
-[上一章：塑造的原則](./01-1-principles-of-shaping.html) | [下一章：找到元素](./01-3-finding-the-elements.html) 
+[上一章：塑造的原則](./01-02-principles-of-shaping.html) | [下一章：找到元素](./01-04-finding-the-elements.html) 
