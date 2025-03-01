@@ -168,4 +168,4 @@ Hill Chart 提供了更多的上下文，不僅顯示工作是否完成，還顯
 
 在下一章中，我們將討論如何在時間有限的情況下做出範圍決策，確保按時交付有價值的功能。
 
-[上一章：範圍映射](./03-12-map-the-scopes.html) | [下一章：範圍解決](./03-14-decide-when-to-stop.html) 
+[上一章：第十四章：映射範圍](./14-map-the-scopes.html) | [下一章：第十六章：決定何時停止](./16-decide-when-to-stop.html) 

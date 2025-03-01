@@ -123,4 +123,4 @@ title: 第十一章：完成一個部分 | Shape Up 繁體中文翻譯
 
 在下一章中，我們將討論如何將較大的項目分解為可管理的範圍，以便於進一步規劃和執行。
 
-[上一章：責任移交](./03-10-hand-over-responsibility.html) | [下一章：範圍映射](./03-12-map-the-scopes.html) 
+[上一章：第十二章：移交責任](./12-hand-over-responsibility.html) | [下一章：第十四章：映射範圍](./14-map-the-scopes.html) 

@@ -145,4 +145,4 @@ title: 第十二章：範圍映射 | Shape Up 繁體中文翻譯
 
 在下一章中，我們將討論如何使用這些範圍來顯示和溝通項目進度。
 
-[上一章：完成一個部分](./03-11-get-one-piece-done.html) | [下一章：顯示進展](./03-13-show-progress.html) 
+[上一章：第十三章：完成一個部分](./13-get-one-piece-done.html) | [下一章：第十五章：顯示進度](./15-show-progress.html) 

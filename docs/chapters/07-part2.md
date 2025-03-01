@@ -23,4 +23,4 @@ title: 第二部分：下注 | Shape Up 繁體中文翻譯
 - [第九章：下注會議](./09-betting-table.html)
 - [第十章：下注的決策](./10-making-bets.html)
 
-[上一章：第六章：寫下提案](./06-write-the-pitch.html) | [下一章：第八章：下注而非待辦事項](./08-bets-not-backlogs.html) 
+[上一章：第六章：寫下提案](./07-write-the-pitch.html) | [下一章：第八章：下注而非待辦事項](./08-bets-not-backlogs.html) 

@@ -91,4 +91,4 @@ title: 第八章：投注表 | Shape Up 繁體中文翻譯
 
 在下一章中，我們將探討投注決策的標準和考量因素。
 
-[上一章：投注與賭注](./02-07-bets-not-backlogs.html) | [下一章：投注決策](./02-09-place-your-bets.html) 
+[上一章：第八章：下注而非待辦事項](./08-bets-not-backlogs.html) | [下一章：第十章：下注的決策](./10-making-bets.html) 

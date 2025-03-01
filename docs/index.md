@@ -13,11 +13,11 @@ title: Shape Up 繁體中文翻譯
 - [第一章：介紹](./chapters/01-introduction.html)
 
 ### [第一部分：塑造](./chapters/02-part1.html)
-- [第二章：塑造的原則](./chapters/02-principles-of-shaping.html)
-- [第三章：確定邊界](./chapters/03-set-boundaries.html)
-- [第四章：找到元素](./chapters/04-find-elements.html)
-- [第五章：風險和兔子洞](./chapters/05-risks-and-rabbit-holes.html)
-- [第六章：寫下提案](./chapters/06-write-the-pitch.html)
+- [第二章：塑造的原則](./chapters/03-principles-of-shaping.html)
+- [第三章：確定邊界](./chapters/04-set-boundaries.html)
+- [第四章：找到元素](./chapters/05-find-elements.html)
+- [第五章：風險和兔子洞](./chapters/06-risks-and-rabbit-holes.html)
+- [第六章：寫下提案](./chapters/07-write-the-pitch.html)
 
 ### [第二部分：下注](./chapters/07-part2.html)
 - [第八章：下注而非待辦事項](./chapters/08-bets-not-backlogs.html)
